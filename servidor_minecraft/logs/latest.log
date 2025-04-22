@@ -489,3 +489,19 @@ BCLib - The End  BiomeSource (dc1c9c3)
 [22Apr2025 03:58:42.915] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [22Apr2025 03:58:42.918] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/fideos_01/servidor_minecraft/bclib-sync (allowDelete=true)
 [22Apr2025 03:58:42.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3627ms or 72 ticks behind
+[22Apr2025 04:07:43.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MyLittleNoodle lost connection: Disconnected
+[22Apr2025 04:07:43.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MyLittleNoodle left the game
+[22Apr2025 04:09:16.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MyLittleNoodle[/127.142.40.213:42911] logged in with entity id 1310 at (614.4005838298584, 72.0, -159.22608617646563)
+[22Apr2025 04:09:16.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MyLittleNoodle joined the game
+[22Apr2025 04:09:19.312] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22Apr2025 04:09:19.314] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22Apr2025 04:09:19.316] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22Apr2025 04:09:19.324] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22Apr2025 04:09:19.326] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22Apr2025 04:09:19.326] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22Apr2025 04:09:19.328] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22Apr2025 04:09:19.328] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22Apr2025 04:09:19.329] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22Apr2025 04:09:19.329] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22Apr2025 04:09:19.329] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/fideos_01/servidor_minecraft/bclib-sync (allowDelete=true)
+[22Apr2025 04:09:19.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
