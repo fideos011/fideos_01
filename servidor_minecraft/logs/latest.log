@@ -505,3 +505,20 @@ BCLib - The End  BiomeSource (dc1c9c3)
 [22Apr2025 04:09:19.329] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [22Apr2025 04:09:19.329] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/fideos_01/servidor_minecraft/bclib-sync (allowDelete=true)
 [22Apr2025 04:09:19.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
+[22Apr2025 04:15:50.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Apr2025 04:15:50.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Apr2025 04:15:50.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MyLittleNoodle lost connection: Server closed
+[22Apr2025 04:15:50.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MyLittleNoodle left the game
+[22Apr2025 04:15:50.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Apr2025 04:15:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:overworld
+[22Apr2025 04:15:53.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/twilightforest:twilight_forest
+[22Apr2025 04:15:53.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_nether
+[22Apr2025 04:15:53.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_end
+[22Apr2025 04:15:53.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Apr2025 04:15:53.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[22Apr2025 04:15:53.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Apr2025 04:15:53.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Apr2025 04:15:53.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Apr2025 04:15:53.886] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Apr2025 04:15:53.889] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[22Apr2025 04:15:53.893] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
