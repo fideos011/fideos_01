@@ -514,3 +514,23 @@ BCLib - The End  BiomeSource (2132fde4)
 [27Apr2025 04:42:44.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BOLLITO_zwz has made the advancement [Diamonds!]
 [27Apr2025 04:43:12.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MyLittleNoodle has made the advancement [Diamonds!]
 [27Apr2025 04:43:24.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BOLLITO_zwz has made the advancement [Sneak 100]
+[27Apr2025 05:08:28.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BOLLITO_zwz lost connection: Disconnected
+[27Apr2025 05:08:28.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BOLLITO_zwz left the game
+[27Apr2025 05:10:12.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MyLittleNoodle lost connection: Disconnected
+[27Apr2025 05:10:12.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MyLittleNoodle left the game
+[27Apr2025 05:10:15.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Apr2025 05:10:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Apr2025 05:10:15.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Apr2025 05:10:15.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Apr2025 05:10:16.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:overworld
+[27Apr2025 05:10:17.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_nether
+[27Apr2025 05:10:17.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/twilightforest:twilight_forest
+[27Apr2025 05:10:17.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo nuevo]'/minecraft:the_end
+[27Apr2025 05:10:17.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Apr2025 05:10:17.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Apr2025 05:10:17.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[27Apr2025 05:10:17.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Apr2025 05:10:17.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Apr2025 05:10:17.184] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Apr2025 05:10:17.186] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[27Apr2025 05:10:17.187] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
