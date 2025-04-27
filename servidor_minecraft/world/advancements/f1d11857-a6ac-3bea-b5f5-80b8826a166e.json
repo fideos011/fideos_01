@@ -2143,6 +2143,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/limestone": {
+    "criteria": {
+      "has_shell": "2025-04-27 04:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-04-27 04:43:12 +0000"

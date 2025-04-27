@@ -1056,6 +1056,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-04-19 22:10:46 +0000",
+      "sweet_berries": "2025-04-27 04:50:16 +0000",
       "baked_potato": "2025-04-27 03:42:56 +0000",
       "bread": "2025-04-19 22:30:21 +0000",
       "cooked_salmon": "2025-04-19 22:59:50 +0000"
@@ -2464,6 +2465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-27 04:37:47 +0000"
@@ -2524,6 +2531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-04-27 04:34:37 +0000"
@@ -2566,6 +2579,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-27 03:54:20 +0000"
@@ -2593,6 +2618,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-04-27 04:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
     },
     "done": true
   },
@@ -2626,6 +2657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-27 04:37:47 +0000"
@@ -2635,6 +2672,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-04-27 04:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
     },
     "done": true
   },
@@ -2686,6 +2729,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-04-27 04:37:58 +0000"
@@ -2710,6 +2771,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-27 04:50:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-27 04:37:47 +0000"
@@ -2722,9 +2789,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-27 04:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
     },
     "done": true
   },
@@ -2737,6 +2816,18 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-04-27 04:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
     },
     "done": true
   },
@@ -2755,6 +2846,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-27 04:37:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
     },
     "done": true
   },
@@ -2821,6 +2918,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-04-27 03:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-27 04:48:04 +0000"
     },
     "done": true
   },
