@@ -506,3 +506,4 @@ BCLib - The End  BiomeSource (2132fde4)
 [27Apr2025 03:39:55.073] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [27Apr2025 03:39:55.073] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [27Apr2025 03:39:55.076] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/fideos_01/servidor_minecraft/bclib-sync (allowDelete=true)
+[27Apr2025 04:15:54.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MyLittleNoodle has made the advancement [Hot Stuff]
