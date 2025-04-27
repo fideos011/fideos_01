@@ -507,3 +507,7 @@ BCLib - The End  BiomeSource (2132fde4)
 [27Apr2025 03:39:55.073] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [27Apr2025 03:39:55.076] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/fideos_01/servidor_minecraft/bclib-sync (allowDelete=true)
 [27Apr2025 04:15:54.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MyLittleNoodle has made the advancement [Hot Stuff]
+[27Apr2025 04:30:04.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MyLittleNoodle tried to swim in lava
+[27Apr2025 04:30:25.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BOLLITO_zwz: Teleported MyLittleNoodle to BOLLITO_zwz]
+[27Apr2025 04:35:06.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MyLittleNoodle fell from a high place
+[27Apr2025 04:35:18.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BOLLITO_zwz: Teleported MyLittleNoodle to BOLLITO_zwz]
