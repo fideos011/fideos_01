@@ -517,3 +517,11 @@ BCLib - The End  BiomeSource (35aeb187)
 [30Apr2025 19:35:08.157] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [30Apr2025 19:35:08.157] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [30Apr2025 19:35:08.157] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[30Apr2025 19:45:33.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MyLittleNoodle has made the advancement [Ice Bucket Challenge]
+[30Apr2025 19:46:54.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BOLLITO_zwz has made the advancement [Ol' Betsy]
+[30Apr2025 19:46:54.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BOLLITO_zwz has made the advancement [Take Aim]
+[30Apr2025 19:47:13.771] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4108, l='ServerLevel[Mundo nuevo]', x=1151.43, y=63.00, z=-374.52] died, message: 'Villager was slain by Zombie'
+[30Apr2025 19:47:50.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/3792, l='ServerLevel[Mundo nuevo]', x=1130.22, y=63.00, z=-384.76] died, message: 'Leatherworker was slain by Zombie Villager'
+[30Apr2025 19:50:58.254] [Worker-Main-22/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[30Apr2025 19:50:58.255] [Worker-Main-22/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[30Apr2025 19:51:38.614] [Worker-Main-22/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
