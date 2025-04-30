@@ -525,3 +525,5 @@ BCLib - The End  BiomeSource (35aeb187)
 [30Apr2025 19:50:58.254] [Worker-Main-22/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
 [30Apr2025 19:50:58.255] [Worker-Main-22/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
 [30Apr2025 19:51:38.614] [Worker-Main-22/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[30Apr2025 20:40:28.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BOLLITO_zwz lost connection: Disconnected
+[30Apr2025 20:40:28.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BOLLITO_zwz left the game
