@@ -55,6 +55,7 @@
       "minecraft:river": "2025-04-19 22:54:24 +0000",
       "minecraft:dripstone_caves": "2025-04-27 04:32:55 +0000",
       "minecraft:cold_ocean": "2025-04-19 23:19:16 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-30 20:00:44 +0000",
       "minecraft:ocean": "2025-04-30 19:35:20 +0000",
       "minecraft:frozen_peaks": "2025-04-19 22:12:53 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-22 01:39:25 +0000",
@@ -3286,6 +3287,12 @@
   "betterend:recipes/misc/fortune_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-30 19:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-04-30 20:01:30 +0000"
     },
     "done": true
   },
